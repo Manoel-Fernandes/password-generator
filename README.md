@@ -11,7 +11,7 @@ Create a new object as a Password object:
 let password = new Password();
 
 ```
-Password has a property _type_ and _size_ that define the type of password and it size.
+Password has the _type_ and _size_ properties to define the type of password and it size.
 
 ### Properties
 
